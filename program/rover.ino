@@ -6,8 +6,8 @@
 
 #define MOT_L1 3
 #define MOT_L2 5
-#define MOT_R1 6
-#define MOT_R2 11
+#define MOT_R1 10
+#define MOT_R2 9
 #define BT_TX 2
 #define BT_RX 12
 #define SPEAKER 13  // пин пищалки
