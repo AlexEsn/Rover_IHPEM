@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>MEPhI_Logo2014_ru.png</file>
+    </qresource>
+</RCC>
